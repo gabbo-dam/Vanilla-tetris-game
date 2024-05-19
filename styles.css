@@ -1,0 +1,14 @@
+.square {
+    width: 25px;
+    height: 25px;
+    background-color: purple;
+    border: 1px solid white;
+}
+
+.rectangle {
+    width: 100%;
+    max-width: 768px;
+    margin: auto;
+    padding: 50px;
+    background-color: blue;
+}
